@@ -1,0 +1,1 @@
+numpy\npandas\nplotly\nscikit-learn\nmatplotlib\nseaborn\njupyter\n
